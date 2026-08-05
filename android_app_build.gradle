@@ -1,0 +1,9 @@
+android {
+    namespace "com.document_book.app"
+    compileSdkVersion 34
+
+    defaultConfig {
+        applicationId "com.document_book.app"
+        minSdkVersion 21
+        targetSdkVersion 34 
+       ...
